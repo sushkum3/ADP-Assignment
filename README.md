@@ -14,12 +14,3 @@ Start the project `npm start`
 
 Go to browser or postman and hit http://localhost/
 
-
-## Usage
-
-ADP-Assignment/
-├── index.js        # Main entry point of the application
-├── package.json    # Project metadata and dependencies
-├── README.md       # Project documentation
-└── node_modules/   # Installed dependencies
-
